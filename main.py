@@ -1,11 +1,11 @@
 def close10(x, y):
     return(x - y)
 
-if close10(5, 12) > 0:
-    print("5")
+if abs(10-10) < abs(10-10):
+    print("10")
 
-elif close10(5, 12) < 0:
-    print("12")
+elif abs(10-10) > abs(10-10):
+    print("5")
 
 else:
     print("0")
